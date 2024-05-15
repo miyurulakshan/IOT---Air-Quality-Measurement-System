@@ -29,14 +29,16 @@ We have developed a real-time air quality measuring and toxic gas detection syst
 - MQ9 sensor
 - MQ131 sensor
 - PM 2.5 sensor
+- ESP 32 Board - IOT
+
 
   
 <div align="center">
-  <img src="image1.jpg" width="200" />
-  <img src="image2.jpg" width="200" />
-  <img src="image3.jpg" width="200" />
-  <img src="image4.jpg" width="200" />
-  <img src="image5.jpg" width="200" />
+  <img src="https://github.com/miyurulakshanx/IOT---Air-Quality-Measurement-/assets/140787875/22b2de75-0324-4caa-8b9b-cbbf962ba7e1" width="200" />
+  <img src="https://github.com/miyurulakshanx/IOT---Air-Quality-Measurement-/assets/140787875/36d196ad-8ed2-49c6-8abb-ef1b8442c3d8" width="200" />
+  <img src="https://github.com/miyurulakshanx/IOT---Air-Quality-Measurement-/assets/140787875/31252063-b74a-4d50-b932-74f0442331fc" width="200" />
+  <img src="https://github.com/miyurulakshanx/IOT---Air-Quality-Measurement-/assets/140787875/102d1827-55dc-4320-9f30-e259e55021eb" width="200" />
+
 </div>
 
 
@@ -54,5 +56,8 @@ We have developed a real-time air quality measuring and toxic gas detection syst
 - Enhancement of tourism and travel experiences
 - Protection from sudden environmental hazards
 - Contribution to the development of smart city infrastructure
+
+![IMG_5421](https://github.com/miyurulakshanx/IOT---Air-Quality-Measurement-/assets/140787875/adce76e3-0cb4-4371-b7df-a3f4ca5eb4ef)
+
 
 
